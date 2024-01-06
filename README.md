@@ -3,7 +3,7 @@ Design an interactive and visually appealing Excel dashboard that showcases your
 
 # Design Guidelines:
 
- Ensure the dashboard is visually appealing and easy to navigate.
- Use color schemes and fonts consistently for a professional look.
- Utilize charts, graphs, and icons to represent data where applicable.
- Keep it concise – the dashboard should provide a quick overview.
+ - Ensure the dashboard is visually appealing and easy to navigate.
+ - Use color schemes and fonts consistently for a professional look.
+ - Utilize charts, graphs, and icons to represent data where applicable.
+ - Keep it concise – the dashboard should provide a quick overview.
